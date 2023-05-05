@@ -18,6 +18,11 @@
   align-items: center;
   background-color: #253141;
 }
+.side-bar-header a{
+  color: #FAFAFA;
+  text-decoration: none;
+}
+
 .header-name a{
   font-size: 16px;
   color: #FAFAFA;
